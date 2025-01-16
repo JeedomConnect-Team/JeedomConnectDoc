@@ -39,6 +39,8 @@ Le plugin, ainsi que l'application sont complètement **gratuit** et le resteron
 Si vous souhaitez **soutenir le projet**, vous pouvez suggérer des améliorations, signaler des bugs et contribuer au code du plugin si vous avez des notions de PHP/JS/HTML, ou de l'application si vous maîtriser le React Native.  
 Pour celles et ceux qui tienent vraiment à soutenir financièrement parlant le projet :  
 <a href="https://www.paypal.me/JeedomConnect" target="_blank"><img src="../images/bmc.png" width='10%'/></a>  
+Ou bien  
+<a href="https://ko-fi.com/tomitomas" target="_blank"><img src="../images/support.png" width='15%'/></a>
 
 [plus d'infos](#qDon)
 
@@ -812,9 +814,9 @@ Comment l'ajouter ? Rapprochez-vous du développeur du plugin utilisé par votre
   - ces modifications impactent l’ENSEMBLE des équipements.
   - ces modifications sont directement visibles depuis la page principale côté plugin
 
-> 
+>
 > exemple : je modifie la commande « ON » de ma lumière, tous mes équipements (mes téléphones) sont mis à jour avec cette nouvelle commande  
-> 
+>
 
 - Personnaliser un widget :
   - permet de personnaliser la configuration d’un widget sur UN équipement
@@ -822,9 +824,9 @@ Comment l'ajouter ? Rapprochez-vous du développeur du plugin utilisé par votre
   - ces changements n’impactent pas tous les équipements, mais seulement celui sur lequel on fait le changement
   - ces changements surchargent et sont prioritaires par rapport à la définition standard du widget
 
-> 
+>
 > exemple : par défaut mon widget fenetre est configuré pour avoir une fenêtre fermée bleu. ma femme prefère le jaune (ca lui rappelle le soleil des vacances), sur son équipement je vais donc personnaliser le widget fenêtre pour modifier l’icone de fenetre fermée avec la couleur jaune. Cette fenêtre jaune sera uniquement appliquée sur son équipement à elle.  
-> 
+>
 
 <br/>
 
