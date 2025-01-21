@@ -1,6 +1,15 @@
 # Changelog JeedomConnect - BETA  
 
-# Chaque mise a jour est a faire sur l app ET le plugin en meme temps (sauf mentions contraire)  
+## Chaque mise a jour est a faire sur l app ET le plugin en meme temps (sauf mentions contraires)  
+
+## Version 1.11.1 (21/01/2025)
+
+PLUGIN UNIQUEMENT
+
+- MaJ du démon python provoquant une potentielle fuite de mémoire, initialement proposé jeedom et corrigé par @Mips [ici](https://community.jeedom.com/t/consommation-memoire-des-demons-python-sous-deb11-bases-sur-le-plugin-template/135569)
+- Ajout de la gestion des dépendances (nécessaire en 4.5)
+- FIXs pour php8
+- MaJ des liens vers changelog et documentation
 
 ## Version 1.10.1 (05/09/24)
 
