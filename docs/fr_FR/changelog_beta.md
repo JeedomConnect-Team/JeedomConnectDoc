@@ -7,7 +7,7 @@
 PLUGIN UNIQUEMENT
 
 - MaJ du démon python provoquant une potentielle fuite de mémoire, initialement proposé jeedom et corrigé par @Mips [ici](https://community.jeedom.com/t/consommation-memoire-des-demons-python-sous-deb11-bases-sur-le-plugin-template/135569)
-- Ajout de la gestion des dépendances (nécessaire en 4.5)
+- Ajout de la gestion des dépendances (nécessaire en 4.5) → uniquement nécessaire pour ceux qui ont besoin d’une connexion en websocket
 - FIXs pour php8
 - MaJ des liens vers changelog et documentation
 
