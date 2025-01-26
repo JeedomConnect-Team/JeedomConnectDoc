@@ -2,6 +2,14 @@
 
 ## Chaque mise a jour est a faire sur l app ET le plugin en meme temps (sauf mentions contraires)  
 
+## Version 1.11.2 (26/01/25)
+
+PLUGIN UNIQUEMENT
+
+- Fix Websocket
+- Changement niveau de log Erreur -> Warning, pour les notifications potentiellement non émise
+- Correction lien vers documentation
+
 ## Version 1.11.1 (21/01/25)
 
 PLUGIN UNIQUEMENT

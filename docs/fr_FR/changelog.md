@@ -2,6 +2,17 @@
 
 # Chaque mise a jour est a faire sur l app ET le plugin en meme temps (sauf mentions contraire)  
 
+## Version 1.12.0 (26/01/25)
+
+PLUGIN UNIQUEMENT
+
+- MaJ du démon python provoquant une potentielle fuite de mémoire, initialement proposé jeedom et corrigé par @Mips [ici](https://community.jeedom.com/t/consommation-memoire-des-demons-python-sous-deb11-bases-sur-le-plugin-template/135569)
+- Ajout de la gestion des dépendances (nécessaire en 4.5) → uniquement nécessaire pour ceux qui ont besoin d’une connexion en websocket
+- FIXs pour php8
+- MaJ des liens vers changelog et documentation
+- Changement niveau de log Erreur -> Warning, pour les notifications potentiellement non émise
+- Correction lien vers documentation
+
 ## Version 1.10.1 (05/09/24)
 
 PLUGIN UNIQUEMENT
