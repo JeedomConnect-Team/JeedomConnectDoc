@@ -2,6 +2,13 @@
 
 ## Chaque mise a jour est a faire sur l app ET le plugin en meme temps (sauf mentions contraires)  
 
+## Version 1.12.1 (02/03/25)  -  BETA
+
+PLUGIN UNIQUEMENT
+
+- fix sur message d'erreur incorrect [[ici]](https://community.jeedom.com/t/vnotif-2-sendnotif-x64-not-found/137257/4)
+- contrôle sur l'état de l'utilisateur (actif ou non) alors qu'une connexion est déjà établie [[ici]](https://community.jeedom.com/t/acces-non-autorises/138599/3)
+
 ## Version 1.11.2 (26/01/25)
 
 PLUGIN UNIQUEMENT
