@@ -23,7 +23,8 @@ Location data is sent only to the user's personal smart home server and is not s
 
 ## 5. Health and Activity Management
 
-JeedomConnect may need to access physical activity data to report to your smart home server whether you are walking, cycling, driving, etc.No health data is used by the application.
+JeedomConnect may need to access physical activity data to report to your smart home server whether you are walking, cycling, driving, etc.  
+No health data is used nor stored by the application.
 
 ## 6. Access to Photos and Files
 

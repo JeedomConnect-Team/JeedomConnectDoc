@@ -24,7 +24,7 @@ Les données de localisation sont uniquement envoyées au serveur domotique pers
 ## 5. Données de santé et activité phyisque
 
 JeedomConnect peut nécessiter d'accéder aux données d'activité physique de façon à remonter à votre serveur domotique si vous vous déplacez à pied, en vélo, en voiture, ...  
-Aucune donnée de santé n'est utilisée par l'application.  
+Aucune donnée de santé n'est utilisée ni sauvegardée par l'application.  
 
 ## 6. Accès à la galerie photo et aux fichiers
 
