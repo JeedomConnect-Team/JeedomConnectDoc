@@ -42,7 +42,7 @@ The Application can create shortcuts to other installed applications to facilita
 
 ## 8. Background Service
 
-The Application collects device status information (*battery level, Wi-Fi connection, screen state, volume level, etc.*) so that users can create smart home automations on their own server. This data is transmitted only to the user's personal smart home server.
+The Application collects device status information (*battery level, Wi-Fi connection, IP address, screen state, volume level, etc.*) so that users can create smart home automations on their own server. This data is transmitted only to the user's personal smart home server, without transfer to third-party services.
 
 ## 9. Other Data
 

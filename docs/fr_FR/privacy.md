@@ -42,7 +42,7 @@ JeedomConnect peut créer des raccourcis vers d'autres applications installées 
 
 ## 8. Service d'arrière-plan
 
-JeedomConnect recueille des informations sur l'état de l'appareil (*batterie, connexion Wi-Fi, état de l'écran, volume sonore, etc.*) afin que l'utilisateur puisse créer des automatisations domotiques sur son propre serveur. Ces données ne sont transmises qu'au serveur domotique personnel de l'utilisateur.
+JeedomConnect recueille des informations sur l'état de l'appareil (*batterie, connexion Wi-Fi, adresse IP, état de l'écran, volume sonore, etc.*) afin que l'utilisateur puisse créer des automatisations domotiques sur son propre serveur. Ces données ne sont transmises qu'au serveur domotique personnel de l'utilisateur, sans transfert vers des services tiers.
 
 ## 9. Autres données
 
