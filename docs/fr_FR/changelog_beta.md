@@ -2,6 +2,15 @@
 
 ## Chaque mise a jour est a faire sur l app ET le plugin en meme temps (sauf mentions contraires)  
 
+## Version 1.13.2 (13/04/2025) - BETA
+
+Plugin et application !
+
+- Ajout d'un lien sur l'application vers la Politique de Confidentialité
+- Changement du logo community
+- Possibilité de créer un post community directement depuis l'app : `Menu > A propos > Obtenir de l'aide`
+- Correction redimensionnement et position sur une page type `menu haut`
+
 ## Version 1.12.1 (02/03/25)  -  BETA
 
 PLUGIN UNIQUEMENT
